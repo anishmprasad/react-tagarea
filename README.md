@@ -1,1 +1,4 @@
 # react-tagarea
+
+# Licence
+MIT
