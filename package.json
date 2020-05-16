@@ -2,7 +2,10 @@
   "name": "react-tagarea",
   "version": "1.0.0",
   "description": "react-tagarea",
-  "main": "index.js",
+  "main": "/dist/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {},
   "repository": {
     "type": "git",
@@ -17,6 +20,9 @@
   "dependencies": {
     "draft-js": "^0.11.5",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "clsx": "1.1.0",
+    "lodash.escaperegexp": "4.1.2",
+    "immutable": "4.0.0-rc.12"
   }
 }
