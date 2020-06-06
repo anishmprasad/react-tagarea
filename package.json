@@ -1,6 +1,6 @@
 {
   "name": "react-tagarea",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "react-tagarea",
   "main": "/dist/index.js",
   "files": [
@@ -23,6 +23,7 @@
     "react-dom": "^16.13.1",
     "clsx": "1.1.0",
     "lodash.escaperegexp": "4.1.2",
-    "immutable": "4.0.0-rc.12"
+    "immutable": "4.0.0-rc.12",
+    "draftjs-utils": "0.10.2"
   }
 }
